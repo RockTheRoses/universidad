@@ -1,4 +1,8 @@
 alumnos 3A
-Alumnos 6A
-Alumnos 9A
-Alumnos 9B
+alumnos 3b
+alumnos 3c
+alumnos 6A
+alumnos 6b
+alumnos 6c
+alumnos 9A
+alumnos 9B

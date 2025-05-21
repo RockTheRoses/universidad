@@ -1,3 +1,4 @@
-directivos
-maestros
-alumnos
+maestro 1
+maestro 2
+maestro 3
+Director de carrera
